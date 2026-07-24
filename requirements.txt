@@ -1,8 +1,9 @@
 streamlit
 pandas
-munpy
-scikit_learn
+numpy
+scikit-learn
 joblib
 xlrd
 openpyxl
 matplotlib
+seaborn
